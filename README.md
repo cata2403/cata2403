@@ -1,7 +1,7 @@
 # Hi there, I'm Cătălin! 👋
 
 ## 🚀 About Me
-I am a Computer Science student and an aspiring Backend Developer focused on learning to build robust, scalable systems. I enjoy diving into architectural design patterns and writing clean, maintainable code.
+I am a Computer Science student and an aspiring Software Developer focused on learning to build robust, scalable systems. I enjoy diving into architectural design patterns and writing clean, maintainable code.
 
 * 🎓 **Education:** Computer Science Student at Babeș-Bolyai University
 * 🏆 **Recent Milestone:** 1st Place at Skillab Testathon 2026, member of team DedSec.
