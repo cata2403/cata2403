@@ -30,7 +30,7 @@ I am a Computer Science student and an aspiring Backend Developer focused on lea
 
 ## 📂 Featured Projects
 
-### 💬 [SimChat](link-catre-repo)
+### 💬 [SimChat](https://github.com/cata2403/simchat)
 A messaging system built to learn modern backend architecture.
 * **Tech:** Java 21, Spring Boot, WebSockets, PostgreSQL, React.
 * **Key Features:** sending/deleting messages, user authentication, friend system
