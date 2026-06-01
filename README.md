@@ -8,25 +8,19 @@ I am a Computer Science student and an aspiring Software Developer focused on le
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### ☕ Backend & Core Development
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+**Languages**
+Java · C++ · JavaScript · Python · C#
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SSMS-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+**Backend**
+Spring Boot · Hibernate · REST APIs
 
-### 🎨 Frontend Development
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+**Databases**
+PostgreSQL · Microsoft SQL Server
 
----
-
-### 🧠 Other Languages & Familiar Tech
-> **C++** | **Python** | **C#**
-> *(Used for algorithmic problem solving, academic projects, and scripting)*
+**Frontend**
+React · HTML
 
 ## 📂 Featured Projects
 
