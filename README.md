@@ -11,7 +11,7 @@ I am a Computer Science student and an aspiring Software Developer focused on le
 ## 🛠️ Tech Stack
 
 **Languages**
-Java · C++ · JavaScript · Python · C#
+Java · C++ · JavaScript · Python · HTML · CSS
 
 **Backend**
 Spring Boot · Hibernate · REST APIs
@@ -20,7 +20,7 @@ Spring Boot · Hibernate · REST APIs
 PostgreSQL · Microsoft SQL Server
 
 **Frontend**
-React · HTML
+React
 
 ## 📂 Featured Projects
 
